@@ -19,7 +19,8 @@ const Hero = () => {
       loop
       className='md:text-5xl sm:text-4xl text-xl font-bold pl-1'/>
         </div>
-        <p>Monitor your data analytics to increase revenue for BTB, BTC, &  SASSS platform.</p>
+        <p className='mt-5'>Monitor your data analytics to increase revenue for BTB, BTC, &  SASSS platform.</p>
+        <p className='mt-5'>Monitor </p>
         </div>
         
     </div>

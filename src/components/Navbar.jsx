@@ -19,6 +19,7 @@ const Navbar = () => {
                 <li className='p-4'>Resources</li>
                 <li className='p-4'>About</li>
                 <li className='p-4'>Contact</li>
+                <li className='p-4'>Projects</li>
             </ul>
 
             {/* Mobile Menu Button (Shown on Mobile) */}
